@@ -99,7 +99,7 @@ npm start
 </h3>
 
 <h3>
-  <a href="https://github.com/a1one1">
+  <a href="https://github.com/Nallsa">
     <img alt="Aslan" src="https://img.shields.io/badge/-Aslan_Abubakarov-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
