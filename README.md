@@ -100,7 +100,7 @@ npm start
 
 <h3>
   <a href="https://github.com/a1one1">
-    <img alt="Turpal" src="https://img.shields.io/badge/-Turpal_Gataev-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Aslan" src="https://img.shields.io/badge/-Aslan_Abubakarov-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 <h3>
